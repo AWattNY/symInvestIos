@@ -46,6 +46,9 @@ key.pem
 # API Keys
 server/config/apiKeys.js
 
+# Google Clouds Credentials
+functions/service_account.json
+
 # Database - Mongo
 data/db/
 mongodb
